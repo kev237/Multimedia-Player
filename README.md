@@ -29,4 +29,4 @@ information about the current position in the file and a slider to change the po
 to change the position in the file.
 - In addition to the basic functions such as open and play, the user should also have the option to show or hide certain areas in the form if desired.
 
-Translated with www.DeepL.com/Translator (free version)
+
